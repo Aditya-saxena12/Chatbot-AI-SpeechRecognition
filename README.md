@@ -1,7 +1,7 @@
 # Getting Started with Create React App
 
 (Advanced Version is on the way and will be uploaded by March 5th, 2024 & 
-Advance features: It will behave totally like Siri or OK GOOGLE)
+Advance features: It will take the command & perform the operations(added manually)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
